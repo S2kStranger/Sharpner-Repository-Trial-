@@ -1,0 +1,10 @@
+
+
+Serving Dinner after tea.
+
+1. Check number of people.
+2. Serve the same number of plates, glasses and bowl.
+3. Add 2 chapatis, dal and 2 types of vegetables in the plates and bowl.
+
+
+Serve each plates to the people.
